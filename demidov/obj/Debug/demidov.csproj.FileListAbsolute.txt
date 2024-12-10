@@ -1,0 +1,7 @@
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\bin\Debug\demidov.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\bin\Debug\demidov.exe
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\bin\Debug\demidov.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\obj\Debug\demidov.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\obj\Debug\demidov.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\obj\Debug\demidov.exe
+C:\Users\kab31\OneDrive\Рабочий стол\demidov\obj\Debug\demidov.pdb
